@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Project UI"
-  text: 路漫漫求修远兮，吾将上下而求索测试
+  text: 路漫漫求修远兮，吾将上下而求索测
   tagline: UI Introduction
   actions:
     - theme: brand
