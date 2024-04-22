@@ -5,7 +5,7 @@ export default defineConfig({
   lang: "en-US",
   title: "Project UI",
   description: "UI Introduction",
-  base: "/",
+  base: "/ZL-UI-DOC/",
   appearance: true, // 外观切换 - 深色浅色
   ignoreDeadLinks: false, // 当设置为 true 时，VitePress 不会因为死链接而导致构建失败。
   lastUpdated: true, // 显示页面最后更新时间
