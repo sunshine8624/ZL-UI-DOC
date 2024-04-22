@@ -1,11 +1,3 @@
-<!--
- * @Author: sunshine8624 535841308@qq.com
- * @Date: 2024-04-19 18:52:11
- * @LastEditors: sunshine8624 535841308@qq.com
- * @LastEditTime: 2024-04-22 11:21:03
- * @FilePath: \ZL-UI-DOC\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 # ZL-UI-DOC
 
 #### 介绍
@@ -14,7 +6,7 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
 #### 软件架构
-软件架构说明100.1.3.0.
+软件架构说明这个测试中
 
 
 #### 安装教程
